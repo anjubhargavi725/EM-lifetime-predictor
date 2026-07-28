@@ -108,3 +108,9 @@ python3 stress_data.py        # generate & preview simulated stress data
 python3 black_eq_fit.py     # fit Black's Equation, compare to true values
 python3 extrapolate_and_plot.py   # extrapolate lifetime & generate plots
 ```
+## After you run, these are plots you will get 
+## Failure distribution:
+<img width="500" height="400" alt="failure_distribution" src="https://github.com/user-attachments/assets/d51e2b58-bb73-4504-a8c3-1bd0b913402d" />
+
+## Arrhenius plot:
+<img width="500" height="400" alt="arrhenius_plot" src="https://github.com/user-attachments/assets/401f379a-b230-4b87-854e-c77ccee3ff3c" />
